@@ -12,3 +12,9 @@
 
 **Question 4**
 ![Question4](https://github.com/Calcanta/python-_project_data_science/assets/61021081/56ff92cf-1989-4501-b76e-d6abc6fa604a)
+
+**Question 5**
+![Question5](https://github.com/Calcanta/python-_project_data_science/assets/61021081/5930f5f3-3464-48ee-b5d6-3a3f3609cd1c)
+
+**Question 6**
+![Question6](https://github.com/Calcanta/python-_project_data_science/assets/61021081/3ebacf5f-d23b-46a2-a769-ce13ba87bedc)
